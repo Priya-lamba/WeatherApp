@@ -19,9 +19,9 @@ A beautifully designed Android weather app that displays real-time weather data 
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![light](./screenshots/light_mode.png) | ![dark](./screenshots/dark_mode.png) |
+| ![Light Mode](./screenshots/light.png) | ![Dark Mode](./screenshots/dark.png) |
 
-> You can add screenshots by putting them in a `screenshots/` folder in the root and naming as above.
+
 
 ---
 
