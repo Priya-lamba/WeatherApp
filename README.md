@@ -36,6 +36,10 @@ A beautifully designed Android weather app that displays real-time weather data 
 - **Material 3 UI**
 
 ---
+## 🔗 Download APK
+
+[⬇️ Download app-release.apk](https://github.com/Priya-lamba/WeatherApp/releases/download/v1.0/app-debug.apk)
+
 
 ## 🔧 Setup Guide
 
